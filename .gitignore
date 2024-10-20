@@ -1,0 +1,12 @@
+lectures.csv
+questions.csv
+train.csv
+lectures.csv.hdf5
+lectures.csv.yaml
+lectures.hdf5
+questions.csv.hdf5
+questions.csv.yaml
+questions.hdf5
+train.hdf5
+train.csv.hdf5
+.vscode/settings.json
